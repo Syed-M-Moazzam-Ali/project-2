@@ -1,0 +1,28 @@
+Official reference pages used for the project structure (checked October 2026):
+
+Canada - Visitor visa:
+https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html
+https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html
+
+United States - Visitor visa / DS-160:
+https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html
+https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application.html
+
+United Kingdom - Standard Visitor:
+https://www.gov.uk/standard-visitor
+https://www.gov.uk/standard-visitor/apply-standard-visitor-visa
+
+Australia - Visitor visa subclass 600:
+https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600
+
+Schengen Area - European Commission:
+https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en
+
+United Arab Emirates - Official UAE platform:
+https://u.ae/en/information-and-services/visa-and-emirates-id/visa-information
+
+Saudi Arabia - Visit Saudi:
+https://www.visitsaudi.com/en/plan-your-trip/visa-regulations/
+https://visa.visitsaudi.com/
+
+Note: Always re-check official requirements before production use.
